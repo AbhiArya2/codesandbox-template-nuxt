@@ -14,6 +14,7 @@
 
 <style>
 .nuxt-logo {
-  height: 180px;
+  height:896rem;
+ Width : 414rem;
 }
 </style>
